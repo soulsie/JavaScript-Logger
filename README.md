@@ -1,5 +1,9 @@
 # JavaScript-Logger
-Simple javascript logger :-
+Simple javascript logger 
+
+## Preview
+![VPN-Preview](https://github.com/soulsie/JavaScript-Logger/assets/121745347/e97d22d8-407a-424f-a353-d4b31a6757fb)
+**Of course that's a VPN**
 
 ## If you wanna add more information to log.
 
