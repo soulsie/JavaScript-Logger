@@ -1,4 +1,4 @@
-// Note: this is undetected in Virustotal but the process could be EASILY found in the console so you need a disable developer tools code
+// Note: this is undetected in Virustotal but the process could be EASILY found in the console.
 // using wtfismyip demo
 fetch("https://wtfismyip.com/json")
 .then((response) => response.json())
